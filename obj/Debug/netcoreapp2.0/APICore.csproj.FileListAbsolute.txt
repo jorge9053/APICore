@@ -1,0 +1,11 @@
+C:\Users\Jorge\source\repos\APICore\APICore\bin\Debug\netcoreapp2.0\APICore.deps.json
+C:\Users\Jorge\source\repos\APICore\APICore\bin\Debug\netcoreapp2.0\APICore.runtimeconfig.json
+C:\Users\Jorge\source\repos\APICore\APICore\bin\Debug\netcoreapp2.0\APICore.runtimeconfig.dev.json
+C:\Users\Jorge\source\repos\APICore\APICore\bin\Debug\netcoreapp2.0\APICore.dll
+C:\Users\Jorge\source\repos\APICore\APICore\bin\Debug\netcoreapp2.0\APICore.pdb
+C:\Users\Jorge\source\repos\APICore\APICore\obj\Debug\netcoreapp2.0\APICore.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\source\repos\APICore\APICore\obj\Debug\netcoreapp2.0\APICore.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\APICore\APICore\obj\Debug\netcoreapp2.0\APICore.AssemblyInfoInputs.cache
+C:\Users\Jorge\source\repos\APICore\APICore\obj\Debug\netcoreapp2.0\APICore.AssemblyInfo.cs
+C:\Users\Jorge\source\repos\APICore\APICore\obj\Debug\netcoreapp2.0\APICore.dll
+C:\Users\Jorge\source\repos\APICore\APICore\obj\Debug\netcoreapp2.0\APICore.pdb
