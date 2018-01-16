@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge\\source\\repos\\APICore\\APICore\\APICore.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge\\Documents\\GIT\\APICore\\APICore\\APICore.csproj",
       "projectName": "APICore",
-      "projectPath": "C:\\Users\\Jorge\\source\\repos\\APICore\\APICore\\APICore.csproj",
+      "projectPath": "C:\\Users\\Jorge\\Documents\\GIT\\APICore\\APICore\\APICore.csproj",
       "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge\\source\\repos\\APICore\\APICore\\obj\\",
+      "outputPath": "C:\\Users\\Jorge\\Documents\\GIT\\APICore\\APICore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
